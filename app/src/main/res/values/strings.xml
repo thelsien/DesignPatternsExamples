@@ -10,4 +10,7 @@
     <string name="label_builder">Builder</string>
     <string name="label_prototype">Prototype</string>
     <string name="label_object_pool">Object Pool</string>
+    <string name="singleton_hint_sammich_description">Set your sammich descrpition.</string>
+    <string name="singleton_button_show_description">Get sammich description</string>
+    <string name="singleton_button_set_description">Set description</string>
 </resources>
