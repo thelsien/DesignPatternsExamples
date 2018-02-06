@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DesignPatternExamples</string>
+    <string name="label_creational">Creational</string>
+    <string name="label_structural">Structural</string>
+    <string name="label_behavioral">Behavioral</string>
+    <string name="label_singleton">Singleton</string>
+    <string name="label_factory">Factory</string>
+    <string name="label_factory_method">Factory method</string>
+    <string name="label_abstract_factory">Abstract Factory</string>
+    <string name="label_builder">Builder</string>
+    <string name="label_prototype">Prototype</string>
+    <string name="label_object_pool">Object Pool</string>
 </resources>

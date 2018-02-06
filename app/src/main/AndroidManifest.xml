@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".creational.CreationalActivity" />
+        <activity android:name=".structural.StructuralActivity" />
+        <activity android:name=".behavioral.BehavioralActivity" />
+        <activity android:name=".creational.singleton.SingletonActivity" />
     </application>
 
 </manifest>
